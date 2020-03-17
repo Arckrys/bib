@@ -40,7 +40,7 @@ const parse_bib = data => {
   rows.each(function (){
     if($(this).attr('class') == "col-md-6 col-lg-6 col-xl-3" ){
       const resturl = "https://guide.michelin.com" + $(this).find('.card__menu-content--title > a').attr("href") +"/";
-      const restname = $(this).find('.card__menu-content--title').text().replace('\n',' ').trim();
+      const restname = $(this).find('.card__menu-content--title').text().replace('\n',' ').toLowerCase().trim();
 
       listURL.push({
         name: restname,
@@ -66,7 +66,7 @@ module.exports.get = async url => {
   const numberOfPages = (dataCount / 40) +1;
   const responselist = [];
 
-  for(let i = 14; i<numberOfPages; i++ ){
+  for(let i = 0; i<numberOfPages; i++ ){
     const url2 = url + "/page/" + i;
     const response = await axios(url2);
     const {data, status} = response;
@@ -82,6 +82,7 @@ module.exports.get = async url => {
 
 
         if(status >= 200 && status <300) {
+          console.log("learning about "+list[j].name)
           const desc = $('.js-show-description-text > p').text();
           const listad = $('.restaurant-details__heading.d-none.d-lg-block').text().replace(/\n/g,' ').replace('Guide MICHELIN 2020',' ').replace(list[j].name,' ').replace('=',' ').replace('•',' ').trim().split("  ");
           const info = [];
@@ -99,6 +100,47 @@ module.exports.get = async url => {
             description : desc
           })
         }
+      }
+      console.log("page "+ (i+1) +" has been read");
+
+
+    }
+
+  }
+
+  return responselist;
+
+  console.error(status);
+
+  return null;
+
+
+  return [];
+};
+
+module.exports.get_only_names = async url => {
+  const response = await axios(url);
+  const {data, status} = response;
+  const $ = cheerio.load(data);
+  const dataCount = parseInt($('.flex-fill.js-restaurant__stats >h1').text().replace('1-40',' ').replace('sur',' ').replace('restaurants', ' ').trim());
+  console.log(dataCount);
+  const numberOfPages = (dataCount / 40) +1;
+  const responselist = [];
+
+  for(let i = 0; i<numberOfPages; i++ ){
+    const url2 = url + "/page/" + i;
+    const response = await axios(url2);
+    const {data, status} = response;
+    const $ = cheerio.load(data);
+
+    if (status >= 200 && status < 300) {
+      const list = parse_bib(data);
+      console.log("reading page "+ (i+1));
+      for(let j = 0; j< list.length; j++){
+          responselist.push({
+            name : list[j].name,
+            url : list[j].url
+          })
       }
       console.log("page "+ (i+1) +" has been read");
 
