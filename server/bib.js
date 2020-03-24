@@ -10,7 +10,7 @@ module.exports.get = async urls => {
   try {
     console.log(`🕵️‍♀️  browsing ${urls[0]} source`);
 
-    const restaurant = await michelin.get_only_names(urls[0]);
+    const restaurant = await michelin.get(urls[0]);
     for(let i =0; i<restaurant.length; i++){
       listMichelin.push(restaurant[i])
     }

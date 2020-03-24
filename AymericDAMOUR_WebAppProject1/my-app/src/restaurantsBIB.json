@@ -1,0 +1,362 @@
+[
+  {
+    "name": "la maison de marie",
+    "url": "https://guide.michelin.com/fr/fr/bretagne/perros-guirec/restaurant/la-maison-de-marie/",
+    "adresse": "24 rue Gabriel-Vicaire, Perros-Guirec, 22700, France",
+    "coord": "48.8202066,-3.4755109",
+    "pricing": "56.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Cette élégante maison en granit rose semble vibrer à l'unisson de la côte... Le chef, Daniel Jaguin, a pour boussole les beaux produits de la région (Saint-Jacques des Côtes-d'Armor, huîtres de Lanmodez, etc. ), qu'il agrémente avec une pointe d'originalité – notes exotiques, épices lointaines. Clair comme de l'eau de roche !"
+  },
+  {
+    "name": "le manoir du sphinx",
+    "url": "https://guide.michelin.com/fr/fr/bretagne/perros-guirec/restaurant/le-manoir-du-sphinx/",
+    "adresse": "67 chemin de la Messe, Perros-Guirec, 22700, France",
+    "coord": "48.8197582,-3.4361377",
+    "pricing": "37.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "De la salle à manger de cette belle maison, élégante et feutrée, on surplombe le jardin et la côte rocheuse. Une vue panoramique à couper le souffle, qui ne donne que plus de relief à des plats privilégiant les produits locaux ; la cuisine unit terre et mer dans une jolie symphonie gustative."
+  },
+  {
+    "name": "le bellevue",
+    "url": "https://guide.michelin.com/fr/fr/occitanie/lacroix-falgarde/restaurant/le-bellevue8982/",
+    "adresse": "1 avenue des Pyrénées, Lacroix-Falgarde, 31120, France",
+    "coord": "43.4980729,1.4097754",
+    "pricing": "45.5 EUR",
+    "type": "Cuisine classique",
+    "description": "Quand on s'promène au bord de l'eau... Le Gabin de la \"Belle Équipe\" n'aurait pas renié cette charmante adresse, pas guindée pour un sou. Le sympathique chef mitonne une cuisine classique mais ouverte au changement ; aux beaux jours, la terrasse, perchée au bord de l'Ariège et ombragée, est un régal."
+  },
+  {
+    "name": "la bonne auberge",
+    "url": "https://guide.michelin.com/fr/fr/hauts-de-france/dury/restaurant/la-bonne-auberge221/",
+    "adresse": "63 Route Nationale, Dury, 80480, France",
+    "coord": "49.8461700,2.2705300",
+    "pricing": "48 EUR",
+    "type": "Cuisine moderne",
+    "description": "Dans cette pimpante auberge, point de carte : on choisit parmi les suggestions du jour, gage de fraîcheur. Le jeune chef se montre assez audacieux dans sa cuisine, osant quelques accords de saveurs originaux (qui ne font pas de mal, dans cette région où la tradition règne en maître... ). Service aimable et efficace, bon rapport qualité-prix."
+  },
+  {
+    "name": "au vieux moulin",
+    "url": "https://guide.michelin.com/fr/fr/grand-est/graufthal/restaurant/au-vieux-moulin/",
+    "adresse": "7 rue du Vieux-Moulin, Graufthal, 67320, France",
+    "coord": "48.8213714,7.2812370",
+    "pricing": "44 EUR",
+    "type": "Cuisine moderne",
+    "description": "Installez-vous dans cette maison familiale, nichée au fond de la vallée de Graufthal, pour déguster la cuisine pleine de peps de Guillaume Kassel. Œuf de poule de la ferme du Moulin et escargots du Steiberg, poitrine de canette, girolles sautées et cerises, etc. Et une carte des vins de plus de 200 références. Chambres avec vue sur l'étang."
+  },
+  {
+    "name": "au cheval blanc",
+    "url": "https://guide.michelin.com/fr/fr/grand-est/niedersteinbach/restaurant/au-cheval-blanc12113/",
+    "adresse": "11 rue Principale, Niedersteinbach, 67510, France",
+    "coord": "49.0316104,7.7106808",
+    "pricing": "51 EUR",
+    "type": "Cuisine traditionnelle",
+    "description": "L'âme d'une winstub... et le goût du pays porté avec amour : truite au bleu, pavé de biche sauce grand-veneur... mousse au kirsch, etc. Même esprit côté décor, tout en boiseries et composé de deux \"stuben\", ces salles rustiques typiquement régionales. Enfin, mention spéciale pour l'accueil, tout à fait exemplaire !"
+  },
+  {
+    "name": "la table d'antan",
+    "url": "https://guide.michelin.com/fr/fr/ile-de-france/sainte-genevive-des-bois/restaurant/la-table-d-antan/",
+    "adresse": "38 avenue de la Grande-Charmille-du-Parc, Sainte-Geneviève-des-Bois, 91700, France",
+    "coord": "48.6441076,2.3279829",
+    "pricing": "47.5 EUR",
+    "type": "Cuisine du Sud-Ouest",
+    "description": "Vous serez d'abord séduit par un accueil prévenant en ce restaurant d'un quartier résidentiel. On y savoure une cuisine classique et des spécialités du Sud-Ouest de qualité."
+  },
+  {
+    "name": "au chapeau rouge",
+    "url": "https://guide.michelin.com/fr/fr/centre-val-de-loire/chinon/restaurant/au-chapeau-rouge/",
+    "adresse": "49 place du Général-de-Gaulle, Chinon, 37500, France",
+    "coord": "47.1669407,0.2401172",
+    "pricing": "38 EUR",
+    "type": "Cuisine du terroir",
+    "description": "Chapeau Rouge, comme celui que portaient les cochers des messageries royales. Le château de Chinon est, en effet, tout proche de ce restaurant devant lequel murmure une fontaine. On y déguste une belle cuisine fidèle aux saisons, avec des produits du terroir triés sur le volet. Menu truffe en hiver."
+  },
+  {
+    "name": "l'artimon",
+    "url": "https://guide.michelin.com/fr/fr/pays-de-la-loire/la-bernerie-en-retz/restaurant/l-artimon/",
+    "adresse": "17 rue Jean-du-Plessis, La Bernerie-en-Retz, 44760, France",
+    "coord": "47.0807600,-2.0365400",
+    "pricing": "33 EUR",
+    "type": "Cuisine traditionnelle",
+    "description": "Cet Artimon porte haut les valeurs de la bonne cuisine, attirant de loin les amateurs : il faut dire que le chef travaille en vrai artisan de beaux produits locaux. La petite salle – toute simple et d’esprit marin – ne désemplit pas !"
+  },
+  {
+    "name": "l'embellie",
+    "url": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/sainte-ccile/restaurant/l-embellie8305/",
+    "adresse": "le Bourg, Sainte-Cécile, 71250, France",
+    "coord": "46.3904152,4.6250769",
+    "pricing": "40.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Un jeune couple motivé est aux commandes de ce restaurant installé dans une ancienne étable au cachet rustique – poutres, meubles en frêne, cheminée. La cuisine, actuelle, revisite certains plats du terroir : ravioles ouvertes d’escargots à l'ail des ours ; ris de veau au jus, pleurotes et émulsion au vin jaune... Glaces et pain maison. Agréable terrasse d'été."
+  },
+  {
+    "name": "la table",
+    "url": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/tourtour/restaurant/la-table63544/",
+    "adresse": "1 traverse de Jas, Les Ribas, Tourtour, 83690, France",
+    "coord": "43.5889770,6.3032316",
+    "pricing": "55.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Charmant petit restaurant contemporain situé à l'étage d'une maison en pierre. La cuisine, savoureuse, valorise les produits du marché, notamment les légumes (excellent menu végétarien, à prix doux). À déguster sur la terrasse ombragée. L'accueil est aussi chaleureux que le service, dynamique."
+  },
+  {
+    "name": "comptoir des voyageurs",
+    "url": "https://guide.michelin.com/fr/fr/bretagne/locronan/restaurant/comptoir-des-voyageurs/",
+    "adresse": "Place de l'Église, Locronan, 29180, France",
+    "coord": "48.0982151,-4.2083201",
+    "pricing": "41 EUR",
+    "type": "Cuisine moderne",
+    "description": "En face de l'église, ce restaurant est emmené par un jeune couple du genre globe-trotter : Suisse, Finlande, Canada... Le chef compose une cuisine goûteuse et généreuse avec les produits d'ici : légumes et cochon des fermes environnantes, belles pièces de poisson de la criée... Aussi goûteux que sympathique."
+  },
+  {
+    "name": "voyages des sens",
+    "url": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/treffort/restaurant/voyages-des-sens/",
+    "adresse": "33 rue Principale, Treffort, 01370, France",
+    "coord": "46.2981830,5.3879540",
+    "pricing": "41.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Après avoir côtoyé plusieurs grands chefs (dont Michel Guérard), Nicolas Morelle s'est installé dans ce village charmant pour faire la cuisine qu'il aime. On se régale par exemple d'escargots de Bresse, mousse et chips de topinambour, dans une ambiance familiale, animée et chaleureuse : bons vivants, soyez les bienvenus."
+  },
+  {
+    "name": "le jardin",
+    "url": "https://guide.michelin.com/fr/fr/grand-est/haguenau/restaurant/le-jardin3646/",
+    "adresse": "16 rue de la Redoute, Haguenau, 67500, France",
+    "coord": "48.8106504,7.7919128",
+    "pricing": "42 EUR",
+    "type": "Cuisine moderne",
+    "description": "À l'unisson, père et fils ont composé une carte sagement actuelle, sans jamais oublier les classiques de la maison : soupe de poisson, carpaccio de thon, chateaubriand avec sauce béarnaise... Quant au décor, il se pare de belles notes classiques, avec notamment un superbe plafond Renaissance."
+  },
+  {
+    "name": "la colombe",
+    "url": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/hyres/restaurant/la-colombe/",
+    "adresse": "663 route de Toulon, Hyères, 83400, France",
+    "coord": "43.1262102,6.0991484",
+    "pricing": "54 EUR",
+    "type": "Cuisine traditionnelle",
+    "description": "Filet de rouget grondin, bouillon d’étrilles et croûtons à la rouille... Tel est l’ancrage provençal de la carte ! C’est en sérieux professionnels que Pascal et Nadège Bonamy ont hissé leur restaurant au rang des bonnes tables de la région. Au pied du massif des Maurettes, la finesse des assiettes ne ment pas."
+  },
+  {
+    "name": "l'escargot",
+    "url": "https://guide.michelin.com/fr/fr/pays-de-la-loire/saumur/restaurant/l-escargot/",
+    "adresse": "30 rue du Maréchal-Leclerc, Saumur, 49400, France",
+    "coord": "47.2563803,-0.0824101",
+    "pricing": "30.5 EUR",
+    "type": "Cuisine traditionnelle",
+    "description": "Agréable cadre contemporain et épuré pour une cuisine sans fioriture, qui va à l'essentiel, autour de plats phares comme les escargots farcis en coquilles à l'ail et au persil, le carré d'agneau rôti, ou en dessert, le\"vrai\" pain perdu d'antan. C'est goûteux, généreux, et les produits sont de premier choix. Un joli petit Escargot où prendre le temps de se restaurer... sur la jolie terrasse, en été."
+  },
+  {
+    "name": "ttotta",
+    "url": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/saint-pe-sur-nivelle/restaurant/ttotta/",
+    "adresse": "Espace Ibarrondoan, Saint-Pée-sur-Nivelle, 64310, France",
+    "coord": "43.3560500,-1.5633099",
+    "pricing": "31 EUR",
+    "type": "Cuisine moderne",
+    "description": "Sur la route de St-Jean-de-Luz, ce sympathique restaurant fait honneur au Pays basque ! Dans un décor contemporain, on déguste une cuisine du terroir avec de beaux produits du marché. Mention spéciale pour la viande et la charcuterie locales. Le tout accompagné de vins du Sud-Ouest. Une bonne adresse."
+  },
+  {
+    "name": "le vauban",
+    "url": "https://guide.michelin.com/fr/fr/normandie/cherbourg-en-cotentin/restaurant/le-vauban/",
+    "adresse": "22 quai Caligny, Cherbourg-en-Cotentin, 50100, France",
+    "coord": "49.6400440,-1.6214966",
+    "pricing": "43.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Géré par un couple accueillant et dynamique, le Vauban propose des recettes bien dans l'air du temps, pleines de saveurs : légumes du maraîcher, viandes locales et produits de la mer sont cuisinés avec soin par le chef ; son épouse, en salle, assure le service avec gentillesse."
+  },
+  {
+    "name": "au fil des saisons",
+    "url": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/tupes/restaurant/au-fil-des-saisons/",
+    "adresse": "3 rue de la Libération, Étupes, 25460, France",
+    "coord": "47.5058772,6.8644355",
+    "pricing": "46 EUR",
+    "type": "Cuisine moderne",
+    "description": "Dans la jolie maison de Stéphane et Fabienne Robinne, le fil des saisons est bien sûr un leitmotiv, mais pas seulement : les beaux produits sont à l'honneur, mis en valeur à travers de judicieuses harmonies de saveurs et une certaine recherche esthétique. Respect de la tradition et sensibilité d'aujourd'hui !"
+  },
+  {
+    "name": "chez michel",
+    "url": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/chez-michel/",
+    "adresse": "10 rue de Belzunce, Paris, 75010, France",
+    "coord": "48.8795129,2.3521222",
+    "pricing": "36.5 EUR",
+    "type": "Cuisine traditionnelle",
+    "description": "Masahiro Kawai, le chef japonais de Chez Michel, joue une partition traditionnelle joyeuse et goûteuse, sans rien s'interdire : du kig ha farz (la fameuse potée bretonne) au paris-brest, en passant par le foie gras rôti, il célèbre les régions – au premier rang desquelles, la Bretagne – avec un soin et une générosité de tous les instants."
+  },
+  {
+    "name": "le colvert",
+    "url": "https://guide.michelin.com/fr/fr/occitanie/saint-lieux-ls-lavaur/restaurant/le-colvert63526/",
+    "adresse": "8 rue d'en Boyer, Saint-Lieux-lès-Lavaur, 81500, France",
+    "coord": "43.7647665,1.7592759",
+    "pricing": "35 EUR",
+    "type": "Cuisine moderne",
+    "description": "Longtemps, cette charmante maison de 1860, baignée de verdure, a été une boulangerie-épicerie ; aujourd'hui, c'est un repaire gourmand ! Le chef concocte une cuisine du marché au gré des saisons – canard colvert, suprême de pintade farci de brousse et trompettes de la mort –, et réserve de beaux crus pour accompagner ses plats."
+  },
+  {
+    "name": "l'atelier",
+    "url": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/prigueux/restaurant/l-atelier1185075/",
+    "adresse": "2 rue Voltaire, Périgueux, 24000, France",
+    "coord": "45.1856667,0.7208709",
+    "pricing": "46.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Cuisinier au parcours éloquent, Cyril Haberland a ouvert avec son épouse cet Atelier dans le centre de Périgueux. Déco chaleureuse et ambiance conviviale : l'écrin parfait pour profiter des assiettes du chef, modernes et bien tournées, qui mettent à l'honneur les nombreux trésors du Sud-Ouest. À vous d'en profiter."
+  },
+  {
+    "name": "la fleur de sel",
+    "url": "https://guide.michelin.com/fr/fr/normandie/honfleur/restaurant/la-fleur-de-sel3731/",
+    "adresse": "17 rue Haute, Honfleur, 14600, France",
+    "coord": "49.4221162,0.2323132",
+    "pricing": "54.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Dans une rue du quartier historique, Vincent Guyon réalise un travail admirable : cuissons maîtrisées, belles inspirations dans la construction visuelle des plats. Tartare de bœuf aux huîtres et mayonnaise vaporeuse aux câpres, cabillaud et noisettes torréfiées, et crème de moutarde épicée : l'ensemble dégage une vraie assurance, celle d'un chef qui sait où il va."
+  },
+  {
+    "name": "la merenda",
+    "url": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/nice/restaurant/la-merenda/",
+    "adresse": "4 rue Raoul-Bosio, Nice, 06000, France",
+    "coord": "43.6965310,7.2730239",
+    "pricing": "37 EUR",
+    "type": "Cuisine provençale",
+    "description": "Un petit restaurant \"à l'ancienne\", d'une charmante simplicité... Dominique Le Stanc confectionne ici de bons petits plats de la région (sardines farcies, tripes à la niçoise, tourte de blettes, etc. ) à déguster au coude-à-coude. Attention, pas de téléphone : il faut passer pour réserver."
+  },
+  {
+    "name": "le rabelais",
+    "url": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/saint-chamas/restaurant/le-rabelais/",
+    "adresse": "8 rue Auguste-Fabre, Saint-Chamas, 13250, France",
+    "coord": "43.5501000,5.0323400",
+    "pricing": "40.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Installé dans la jolie salle voûtée du 17e s. d'un vieux moulin à blé, un restaurant que n'aurait pas renié le héros de Rabelais, l'insatiable Gargantua ! On y sert une goûteuse cuisine, ancrée dans les saisons et préparée avec le plus grand soin. Pour faire étape, deux jolies chambres à l'étage."
+  },
+  {
+    "name": "le lancelot",
+    "url": "https://guide.michelin.com/fr/fr/centre-val-de-loire/chilleurs-aux-bois/restaurant/le-lancelot/",
+    "adresse": "12 rue des Déportés, Chilleurs-aux-Bois, 45170, France",
+    "coord": "48.0713200,2.1345500",
+    "pricing": "54.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Au centre du village, cette accueillante maison fleurie avec jardin et terrasse – et une belle collection de rosiers – est un véritable havre de tranquillité ! La patronne propose ses créations personnelles, avec une spécialité qui met l'eau à la bouche : le pithiviers fondant, coulis de fruits rouges, pistache..."
+  },
+  {
+    "name": "auberge de la roche",
+    "url": "https://guide.michelin.com/fr/fr/pays-de-la-loire/saint-jean-de-linires/restaurant/auberge-de-la-roche/",
+    "adresse": "10 Route Nationale 23, Saint-Jean-de-Linières, 49070, France",
+    "coord": "47.4581200,-0.6579000",
+    "pricing": "43 EUR",
+    "type": "Cuisine moderne",
+    "description": "Thon albacore mariné aux herbes ; tranche de lard caramélisée au soja ; crémet d'Anjou aux fraises gariguettes... Une cuisine qui sent bon l'air du temps, dans cette petite auberge de province joliment fleurie. Côté véranda, ardoise plus simple le midi."
+  },
+  {
+    "name": "auberge du moulin",
+    "url": "https://guide.michelin.com/fr/fr/normandie/clres/restaurant/auberge-du-moulin/",
+    "adresse": "36 rue des Moulins-du-Tot, Clères, 76690, France",
+    "coord": "49.5816199,1.0907513",
+    "pricing": "48 EUR",
+    "type": "Cuisine moderne",
+    "description": "Une sympathique auberge tournée vers un vieux moulin, bordé par une petite rivière dont le cours est ponctué de cressonnières. On prend plaisir à déguster la cuisine dans l'air du temps concoctée par Marc Halbourg, qui valorise joliment marée et terroir normands."
+  },
+  {
+    "name": "coteaux et fourchettes",
+    "url": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/cairanne/restaurant/coteaux-et-fourchettes/",
+    "adresse": "Route de Violès, Cairanne, 84290, France",
+    "coord": "44.2032400,4.9457600",
+    "pricing": "53.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Jolie enseigne... Dans cet ancien caveau, le terroir s'exprime aussi bien par l'assiette – savoureuse – que par le flacon – excellent choix de vins locaux. Agréable décor contemporain, terrasse ouverte sur le vignoble."
+  },
+  {
+    "name": "la griotte",
+    "url": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/saules/restaurant/la-griotte/",
+    "adresse": "3 rue des Cerisiers, Saules, 25580, France",
+    "coord": "47.1238170,6.2002160",
+    "pricing": "33.5 EUR",
+    "type": "Cuisine traditionnelle",
+    "description": "Un clocher et des champs alentour, une véranda plongeant sur un jardin verdoyant... cette ferme revêt de forts jolis atours ! Tradition, saveurs de saison et spécialités régionales : voilà bien une belle Griotte, tendre et goûteuse. Cerise sur le gâteau : l'accueil souriant et l'addition sans acidité."
+  },
+  {
+    "name": "la maison",
+    "url": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/cognac/restaurant/la-maison/",
+    "adresse": "1 rue du 14-Juillet, Cognac, 16100, France",
+    "coord": "45.6931279,-0.3256814",
+    "pricing": "60 EUR",
+    "type": "Cuisine moderne",
+    "description": "Savoureuse cuisine de saison dans cette belle maison de Cognac, à apprécier, au choix, dans l'une des salles bourgeoises aux pierres apparentes, ou sur la terrasse. Le décor est frais et coloré, à l'image des assiettes. Les menus combinent la tradition à une judicieuse modernité."
+  },
+  {
+    "name": "pomze",
+    "url": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/pomze/",
+    "adresse": "109 boulevard Haussmann, Paris, 75008, France",
+    "coord": "48.8751739,2.3165102",
+    "pricing": "50.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Adresse originale que cette Pomze, qui invite à un \"voyage autour de la pomme\" ! De l'épicerie (où l'on trouve cidre et calvados) au restaurant, le \"fruit défendu\" est le fil rouge de la maison. La cuisine se révèle créative et voyageuse, avec d'originaux accords mets-cidres... et un excellent rapport qualité-prix."
+  },
+  {
+    "name": "la part des anges",
+    "url": "https://guide.michelin.com/fr/fr/occitanie/castres/restaurant/la-part-des-anges454760/",
+    "adresse": "7 rue d'Empare, Castres, 81100, France",
+    "coord": "43.6045314,2.2431667",
+    "pricing": "34 EUR",
+    "type": "Cuisine moderne",
+    "description": "Une cuisine du marché en plein dans les saisons, généreuse et créative juste ce qu'il faut, voilà ce que mitonne le chef de cette adresse installée non loin de l'Agout. Les petits producteurs des environs sont mis à l'honneur et les saveurs au rendez-vous. Service attentionné."
+  },
+  {
+    "name": "histoire ancienne",
+    "url": "https://guide.michelin.com/fr/fr/hauts-de-france/calais/restaurant/histoire-ancienne/",
+    "adresse": "20 rue Royale, Calais, 62100, France",
+    "coord": "50.9569000,1.8495400",
+    "pricing": "43 EUR",
+    "type": "Cuisine traditionnelle",
+    "description": "Au cœur du centre-ville, ce bistrot rétro n'est pas de l'histoire ancienne ! La cuisine traditionnelle et les plats canailles y conservent toute leur fraîcheur : tête de veau sauce gribiche, cassoulet, etc. C'est goûteux, généreux et pas onéreux."
+  },
+  {
+    "name": "au colombier",
+    "url": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/anse/restaurant/au-colombier/",
+    "adresse": "126 allée Colombier, Anse, 69480, France",
+    "coord": "45.9454350,4.7258210",
+    "pricing": "47.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "En bord de Saône, une belle bâtisse du 18e s., entre guinguette branchée et maison de pays. La cuisine est résolument dans l'air du temps mais n'oublie pas les grands classiques, telles ces belles cuisses de grenouille poêlées. Du goût et du caractère, à déguster sur une terrasse paisible et cosy..."
+  },
+  {
+    "name": "l'arum",
+    "url": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/hyres/restaurant/l-arum/",
+    "adresse": "21 avenue Joseph-Clotis, Hyères, 83400, France",
+    "coord": "43.1202188,6.1304632",
+    "pricing": "45.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "L'Arum tient son nom de la fleur préférée de la propriétaire et de l'arôme. En quelques mois seulement, cette table chaleureuse, située face à l'hôtel de ville, a su imposer une cuisine méditerranéenne moderne et sans chichi, qui ravira les papilles les plus exigeantes - tomate en variation ; espadon sauvage etc. En été, on profite de la terrasse ombragée. Des assiettes goûteuses et généreuses, qui vont à l'essentiel."
+  },
+  {
+    "name": "la maison carrier",
+    "url": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/chamonix-mont-blanc/restaurant/la-maison-carrier/",
+    "adresse": "44 route du Bouchet, Chamonix-Mont-Blanc, 74400, France",
+    "coord": "45.9251353,6.8736882",
+    "pricing": "52.5 EUR",
+    "type": "Cuisine régionale",
+    "description": "Une ferme typique et conviviale, au sein du luxueux Hameau Albert 1er. Goûtez aux petits plats mitonnés, quenelle de brochet, élaborés avec de superbes produits du terroir, boudin noir. Généreux, nobles et savoureux, comme l'étaient les recettes de nos grands-mères..."
+  },
+  {
+    "name": "ar maen hir",
+    "url": "https://guide.michelin.com/fr/fr/bretagne/locronan/restaurant/ar-maen-hir/",
+    "adresse": "15 bis rue du Prieuré, Locronan, 29180, France",
+    "coord": "48.0977773,-4.2114968",
+    "pricing": "32 EUR",
+    "type": "Cuisine moderne",
+    "description": "Pour installer sa première affaire, le jeune chef Thibaud Érard (Top Chef 2018) a choisi le joli village médiéval de Locronan, près de Quimper. Il semble s'épanouir en ces lieux, où il propose une cuisine fraîche et enlevée, sans sophistication inutile. Service sympathique."
+  },
+  {
+    "name": "le tire bouchon",
+    "url": "https://guide.michelin.com/fr/fr/bretagne/lorient/restaurant/le-tire-bouchon/",
+    "adresse": "45 rue Jules-le-Grand, Lorient, 56100, France",
+    "coord": "47.7486709,-3.3578633",
+    "pricing": "46 EUR",
+    "type": "Cuisine traditionnelle",
+    "description": "Dans ce Tire Bouchon, proche de l'arsenal, on ne fait pas que déboucher des bouteilles ! Les gourmands viennent surtout ici pour se régaler d'une goûteuse cuisine de saison. Un bon moment à savourer dans une salle coquette à souhait : grande cheminée, poutres... Accueil souriant."
+  },
+  {
+    "name": "le bastion",
+    "url": "https://guide.michelin.com/fr/fr/occitanie/lagrasse/restaurant/le-bastion/",
+    "adresse": "50 boulevard de la Promenade, Lagrasse, 11220, France",
+    "coord": "43.0891229,2.6196977",
+    "pricing": "36.5 EUR",
+    "type": "Cuisine moderne",
+    "description": "Cet ancien bastion médiéval du huitième siècle se situe dans un village au cœur du massif des Corbières, réputé pour son abbaye bénédictine médiévale. On s'installe dans l'une des deux jolies salles rustiques pour déguster une « cuisine avant-garde rurale », inspirée d'Auguste Escoffier mais modernisée, avec de nettes influences régionales - ainsi la bisque de crabe vert, ses foies blonds de volaille et son aïoli. Petite carte de tapas et grande terrasse. Une sympathique adresse."
+  }
+]

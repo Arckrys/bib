@@ -84,6 +84,7 @@ module.exports.get = async url => {
         if(status >= 200 && status <300) {
           console.log("learning about "+list[j].name)
           const desc = $('.js-show-description-text > p').text();
+          const coord = $('.google-map__static > iframe ').attr("src").split("=")[2];
           const listad = $('.restaurant-details__heading.d-none.d-lg-block').text().replace(/\n/g,' ').replace('Guide MICHELIN 2020',' ').replace(list[j].name,' ').replace('=',' ').replace('•',' ').trim().split("  ");
           const info = [];
           for(let k = 0; k < listad.length; k++){
@@ -91,14 +92,32 @@ module.exports.get = async url => {
               info.push(listad[k].trim())
             }
           }
-          responselist.push({
-            name : list[j].name,
-            url : list[j].url,
-            adresse : info[0],
-            pricing : (parseInt(info[1]) + parseInt(info[3]))/2 +" "+ info[4],
-            type : info[5],
-            description : desc
-          })
+          if(info.length == 7){
+            responselist.push({
+              name : list[j].name,
+              url : list[j].url,
+              adresse : info[1],
+              coord : coord,
+              pricing : (parseInt(info[2]) + parseInt(info[4]))/2 +" "+ info[5],
+              type : info[6],
+              description : desc
+            })
+          }
+
+
+          if(info.length == 8){
+            responselist.push({
+              name : list[j].name,
+              url : list[j].url,
+              adresse : info[1],
+              coord : coord,
+              grade : info[2],
+              pricing : (parseInt(info[3]) + parseInt(info[5]))/2 +" "+ info[6],
+              type : info[7].replace('•',' ').trim(),
+              description : desc
+            })
+          }
+
         }
       }
       console.log("page "+ (i+1) +" has been read");
